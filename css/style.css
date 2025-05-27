@@ -45,3 +45,13 @@ section {
   border-top: 3px solid deeppink;
 }
 
+/* header styling */
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+header img{
+  width: 150px;
+  border-radius: 50%;
+}
